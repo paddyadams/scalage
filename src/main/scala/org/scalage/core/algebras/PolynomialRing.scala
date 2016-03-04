@@ -1,5 +1,8 @@
 package org.scalage.core.algebras
 
+import org.scalage.core.algebras.Module.RingVectorModule
+import org.scalage.core.elements.Polynomial
+
 import scala.reflect.ClassTag
 
 /**
